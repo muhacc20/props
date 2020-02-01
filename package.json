@@ -2,6 +2,8 @@
   "name": "props",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://muhacc20.github.io/tariff-tele2",
+  
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
