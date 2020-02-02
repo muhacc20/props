@@ -18,15 +18,11 @@ export default function TariffItem({ tariff }) {
           </div>
           <img src={tariff.hit} alt="" className='hit' />
         </div>
-
         <div className='block'>
-
           <div className='r-side'>
             <div className='traffic'>{tariff.traffic !== 0 && tariff.traffic}</div>
             <div classname='l-side'>
               <div className='volium'>{tariff.volium !== 0 && tariff.volium} </div>
-
-
             </div>
           </div>
           <p className='text'>{tariff.text}</p>
